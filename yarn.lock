@@ -2060,8 +2060,14 @@
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
+
+"@modules/qr-code@file:./modules/qr-code/":
+  version "1.0.0"
+  dependencies:
+    react-native-camera "4.2.1"
+    react-native-qrcode-scanner "1.5.5"
 
 "@modules/side-drawer@file:./modules/side-drawer":
   version "1.0.0"
@@ -10511,7 +10517,7 @@ react-native-screens@3.10.2:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
-react-native-screens@^3.20.0:
+react-native-screens@3.20.0:
   version "3.20.0"
   resolved "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-3.20.0.tgz#4d154177395e5541387d9a05bc2e12e54d2fb5b1"
   integrity sha512-joWUKWAVHxymP3mL9gYApFHAsbd9L6ZcmpoZa6Sl3W/82bvvNVMqcfP7MeNqVCg73qZ8yL4fW+J/syusHleUgg==
