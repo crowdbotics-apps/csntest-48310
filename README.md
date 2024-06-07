@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-camera](backend/modules)
 - [django-docusign](backend/modules)
 - [django-ocr](backend/modules)
+- [django-paypal](backend/modules)
 
 # Getting started: Frontend
 
