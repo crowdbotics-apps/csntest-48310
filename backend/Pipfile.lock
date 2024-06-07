@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bdc0cde464970de13992947874dd07408ab22a770fedf7f4a701b70caf44f977"
+            "sha256": "e2239b9f95cfffef0c38eb3a8091d844bd25ddcf15559a466cc5248df3cf7f2b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -106,6 +106,10 @@
         "cb-django-paypal": {
             "editable": true,
             "path": "./modules/django_paypal"
+        },
+        "cb-terms-and-conditions": {
+            "editable": true,
+            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [

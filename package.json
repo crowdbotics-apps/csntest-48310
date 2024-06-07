@@ -23,6 +23,7 @@
     "@modules/qr-code": "file:./modules/qr-code/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
     "@modules/social-login": "file:./modules/social-login/",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/user-profile": "file:./modules/user-profile/",
