@@ -82,6 +82,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-ocr](backend/modules)
 - [django-paypal](backend/modules)
 - [terms-and-conditions]()
+- [faq]()
 
 # Getting started: Frontend
 
